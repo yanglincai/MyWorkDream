@@ -6,4 +6,6 @@ package com.ylc.kf.myworkdream;
 
 public class TestClass {
 
+    private String mCurr;
+    private static  int sInt;
 }
